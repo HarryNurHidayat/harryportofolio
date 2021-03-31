@@ -1,16 +1,20 @@
-body {
-  min-height: 4000px;
+Body {
+  font-family: Josefin Sans;
 }
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #7892bc;
-}
-
-#About {
+  padding-top: 7rem;
   background-color: #ffffff;
 }
 
-#contact {
-  padding-top: 2rem;
+#About {
   background-color: #7892bc;
+}
+
+#Project {
+  padding-top: 7rem;
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 6rem;
 }
